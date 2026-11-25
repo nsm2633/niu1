@@ -1,3 +1,3 @@
-# niu1
+# Close Book
 
-Open index.html, then click 读取练习数据.
+Open `index.html` and click **Load sample**. Hover the chart or press **Play**.
